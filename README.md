@@ -1,2 +1,5 @@
-# nativeaotdeploymentindotnet
-This repository includes both an application contains AOT configuration and another application which doesn't have any AOT configuration
+# Native Aot Deployment in dotnet 7
+This repository includes both 
+1. First application that contains an AOT configuration (Native AOT folder) and
+2. Second application with no AOT configuration (WithoutNativeAOT folder).
+
